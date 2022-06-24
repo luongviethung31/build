@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bf28da9.css",
+    "main.js": "/static/js/main.dc776cb5.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/logo-spt.png": "/static/media/logo-spt.1510c13bd41640fb04c8.png",
+    "static/media/icon-logo.png": "/static/media/icon-logo.1b91c18ca32065a55383.png",
+    "static/media/HKGroteskPro-Regular.woff2": "/static/media/HKGroteskPro-Regular.9473e20818761a04a975.woff2",
+    "static/media/bg-contact.svg": "/static/media/bg-contact.c0c79bfb905fd2292818c361a54e1bb1.svg",
+    "static/media/icon_moutain.svg": "/static/media/icon_moutain.22d04da23584f6a79154d47912777b3a.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/delete-icon.svg": "/static/media/delete-icon.b5b77f904bfc4248a6751729f712fc78.svg",
+    "main.5bf28da9.css.map": "/static/css/main.5bf28da9.css.map",
+    "main.dc776cb5.js.map": "/static/js/main.dc776cb5.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf28da9.css",
+    "static/js/main.dc776cb5.js"
+  ]
+}
